@@ -9,6 +9,7 @@ function addTimeChosen() {
 
   if (timeChosen == 4) {
     alert(timeChosen);
+    
     lolcatImageJS.src =
       "https://s3.amazonaws.com/media.skillcrush.com/skillcrush/wp-content/uploads/2016/09/cat1.jpg";
     messageJS.innerText = "Wake-Up!!!!!!!";
