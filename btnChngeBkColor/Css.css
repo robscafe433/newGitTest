@@ -1,4 +1,4 @@
-.blue {
+.blueClass {
   color: white;
   padding: 25px 75px;
   background-color: blue;
@@ -8,7 +8,7 @@
   width: 200px;
   
 }
-.red {
+.redClass {
   color: white;
   padding: 25px 75px;
   background-color: red;
@@ -17,7 +17,7 @@
   height: 100px;
   width: 200px;
 }
-.yellow {
+.yellowClass {
   color: black;
   padding: 25px 75px;
   background-color: yellow;
@@ -26,7 +26,7 @@
   height: 100px;
   width: 200px;
 }
-.green {
+.greenClass {
   color: white;
   padding: 25px 75px;
   background-color: green;
